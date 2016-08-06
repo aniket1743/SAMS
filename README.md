@@ -1,2 +1,2 @@
-# Student-Auditorium-Management-Software
-Created a JAVA application for automation of auditorium in Software Engineering Course. Used MySQL database for storing all the data.
+# SAMS
+Student Auditorium Management Software, an academic project created for Software Engineering course in IIT Kharagpur.
